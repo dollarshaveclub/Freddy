@@ -804,7 +804,6 @@
 			buildSettings = {
 				INFOPLIST_FILE = Tests/FreddyTests/Info.plist;
 				SDKROOT = macosx;
-				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -814,7 +813,6 @@
 			buildSettings = {
 				INFOPLIST_FILE = Tests/FreddyTests/Info.plist;
 				SDKROOT = macosx;
-				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
